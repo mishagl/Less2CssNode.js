@@ -5,3 +5,4 @@ c:\nssm-2.12\win32\nssm.exe install less2css-node "c:\Program Files\nodejs\node.
 
 ### Install Prerequisites
 * [NSSM](https://nssm.cc/) - the Non-Sucking Service Manager
+* [LESS](http://lesscss.org/) - It's CSS, with just a little more.
